@@ -1,0 +1,164 @@
+{
+  "logs": [
+    {
+      "id": "1",
+      "date": "2026-03-01",
+      "type": "food",
+      "title": "Breakfast - Oatmeal with berries",
+      "value": "350 kcal",
+      "calories": 350,
+      "time": "08:00 AM",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "date": "2026-03-01",
+      "type": "water",
+      "title": "Water intake",
+      "value": "500",
+      "time": "09:30 AM",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "date": "2026-03-01",
+      "type": "food",
+      "title": "Lunch - Grilled chicken salad",
+      "value": "450 kcal",
+      "calories": 450,
+      "time": "12:30 PM",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "date": "2026-03-01",
+      "type": "workout",
+      "title": "Morning run",
+      "value": "5 km",
+      "duration": 45,
+      "time": "06:00 AM",
+      "completed": true
+    },
+    {
+      "id": "1772433270018",
+      "type": "food",
+      "date": "2026-03-02",
+      "title": "water",
+      "value": "150 kcal",
+      "calories": 150,
+      "time": "12:04 PM",
+      "completed": true
+    },
+    {
+      "id": "1772433937591",
+      "type": "food",
+      "date": "2026-03-02",
+      "title": "water",
+      "value": "350 kcal",
+      "calories": 350,
+      "time": "12:15 PM",
+      "completed": true
+    },
+    {
+      "id": "1772433964349",
+      "type": "workout",
+      "date": "2026-03-02",
+      "title": "Runing ",
+      "value": "15 min",
+      "duration": 15,
+      "time": "12:16 PM",
+      "completed": true
+    },
+    {
+      "id": "1772434248239",
+      "type": "workout",
+      "date": "2026-03-02",
+      "title": "Running",
+      "value": "40 min",
+      "duration": 40,
+      "time": "12:20 PM",
+      "completed": true
+    },
+    {
+      "id": "1772434272303",
+      "type": "sleep",
+      "date": "2026-03-02",
+      "title": "Sleep",
+      "value": 7,
+      "time": "12:21 PM",
+      "completed": true
+    },
+    {
+      "id": "1772449632346",
+      "type": "workout",
+      "date": "2026-03-02",
+      "title": "swimming",
+      "value": "30 min",
+      "duration": 30,
+      "time": "4:37 PM",
+      "completed": true
+    },
+    {
+      "id": "1772453168418",
+      "type": "water",
+      "date": "2026-03-02",
+      "title": "Water intake",
+      "value": 400,
+      "time": "5:36 PM",
+      "completed": true
+    },
+    {
+      "id": "1772453183689",
+      "type": "water",
+      "date": "2026-03-02",
+      "title": "Water intake",
+      "value": 2600,
+      "time": "5:36 PM",
+      "completed": true
+    }
+  ],
+  "weights": [
+    {
+      "id": "w1",
+      "date": "2026-02-25",
+      "weight": 185
+    },
+    {
+      "id": "w2",
+      "date": "2026-02-26",
+      "weight": 184.5
+    },
+    {
+      "id": "w3",
+      "date": "2026-02-27",
+      "weight": 184
+    },
+    {
+      "id": "w4",
+      "date": "2026-02-28",
+      "weight": 183.8
+    },
+    {
+      "id": "w5",
+      "date": "2026-03-01",
+      "weight": 183.5
+    },
+    {
+      "id": "1772434188098",
+      "date": "2026-03-02",
+      "weight": 79
+    },
+    {
+      "id": "1772434206236",
+      "date": "2026-03-02",
+      "weight": 78
+    },
+    {
+      "id": "1772441313774",
+      "date": "2026-03-02",
+      "weight": 40
+    }
+  ],
+  "achievements": [],
+  "badges": []
+}
